@@ -9,7 +9,7 @@
 ## How it works
 |             Step 1               |               Step 2                   |                Step 3                 |                Step 4                 |
 | :--------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
-| <strong>Load</strong> proper DICOM lung series​ | <strong>Fill out</strong> patient's medical record number​​ | strong>Submit</strong> Computer Tomography for covid-19 scan​ | <strong>Review</strong> interactive results​​ |
+| <strong>Load</strong> proper DICOM lung series​ | <strong>Fill out</strong> patient's medical record number​​ | <strong>Submit</strong> Computer Tomography for covid-19 scan​ | <strong>Review</strong> interactive results​​ |
 
 
 ## Features
